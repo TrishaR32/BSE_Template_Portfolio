@@ -1,4 +1,4 @@
-﻿# Project Name/Title Goes Here
+﻿# Sunscreen Reminder Hat with UV Detector
 This project reminds you to reapply sunscreen with a wearable circuit and UV index sensor all sown into a hat. The UV sensor detects if you are outside by seeing if the UV Index is greater than the set threshold. When someone is under direct sunligt, the sensor tells the mainboard that the threshold was crossed, to which the mainboard tells the buzzer to beep.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
