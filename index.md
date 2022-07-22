@@ -8,6 +8,7 @@ This project reminds you to reapply sunscreen with a wearable circuit and UV ind
 
 # About Me
 Hi, my name is Trisha Rajganesh, an aspiring Mechanical/Design Engineer who has been working on this project over the past three weeks. Although there were a lot of challenges along the way, I really enjoyed this project. Here is my portfolio!
+  ![Headstone Image]https://drive.google.com/file/d/1e-8D2TZGlYCiezzocDQgoRGs-Jf1wAL4/view?usp=sharing
   
 # Final Milestone
 My final milestone was sewing the components(the mainboard, piezo buzzer, UV Sensor, and 9V battery) onto the hat. I had to hold them in place so that when the battery was plugged into it's holder, it would not weigh down the rest of the devices. I also had to change the reapply interval in the code to 60 seconds, so the battery would not be exposed to direct sunlight for too long. In the end, I realized that a modification I would like to make in the future would be to build a battery holder with CAD, which would cover the battery and decrease the risk of it overheating. 
