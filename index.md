@@ -28,3 +28,17 @@ My second milestone was soldering my UV sensor, buzzer, and battery connector to
 My first milestone was getting my UV/Visible light sensor to display UV, visible light, and IR levels to the serial monitor. I was able to do this by connecting my UV sensor to the mainboard(Adafruit Flora) and then inputting code that told the sensor to display its results to the serial monitor. I was also able to separately get my buzzer to play the Super Mario theme. I was able to do this by connecting my buzzer to the same mainboard and inputting code that had the tune and time intervals for the song.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2a0s0enZTdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Materials Used and Costs
+
+| Item | Price | Link to Item | 
+| ------------- | ------------- | ------------- |
+| Adafruit Flora Mainboard | $14.95 | https://www.adafruit.com/product/659 |
+| UV Sensor | $9.95 | https://www.adafruit.com/product/1777 |
+| Piezo Buzzer | $1.50 | https://www.adafruit.com/product/160 |
+| 9V Battery Clip | $2.95 | https://www.adafruit.com/product/80 |
+| Alkaline 9V Battery | $1.50 | https://www.adafruit.com/product/1321 |
+| Wire Stripper | $16.06 | https://www.amazon.com/Multi-Purpose-Stripper-Klein-Tools-1011/dp/B0000302WM/ref=asc_df_B0000302WM?tag=bingshoppinga-20&linkCode=df0&hvadid=80401843598485&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584001419748637&psc=1 |
+| Soldering Iron Kit | $19.99 | https://www.amazon.com/ANBES-Soldering-Iron-Kit-Electronics/dp/B06XZ31W3M/ref=asc_df_B06XZ31W3M?tag=bingshoppinga-20&linkCode=df0&hvadid=80195681205767&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583795260585419&psc=1 |
+| Mini Sewing Kit | $1.99 | https://www.hobbylobby.com/Fabric-Sewing/Sewing-Quilting-Notions/Sewing-Tools/Mini-Sewing-Kit/p/80932925?msclkid=df8cf73dc6d81958748e95e722c02395&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping-Catch%20All&utm_term=4579809530712055&utm_content=Fabric%20Sewing-Sewing%20Quilting%20Notions |
+| Wire Kit | $15.88 | https://www.amazon.com/CBAZYTM-Stranded-Gauge-colors-Electrical/dp/B0791FNV7W/ref=asc_df_B0791FNV7W?tag=bingshoppinga-20&linkCode=df0&hvadid=79989522876896&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583589101730777&psc=1 |
