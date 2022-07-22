@@ -15,7 +15,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was soldering my UV sensor, buzzer, and battery connector to the mainboard. This made all my connections permanent and enabled all of them to work together. After they were all joined, I needed a separate code to have them all interact with each other. Once I found this code, I tweaked the reapply intervals to suit my needs. Some issues I fixed were the UV sensor not working because of the excess solder on the bottom of the sensor. I learned how to properly apply solder and clean it up to minimize residue.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yx8pPPZKOJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # First Milestone
   
 
