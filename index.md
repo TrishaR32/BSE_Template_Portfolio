@@ -1,11 +1,13 @@
-﻿# Sunscreen Reminder Hat with UV Detector
+![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+# Sunscreen Reminder Hat with UV Detector
 This project reminds you to reapply sunscreen with a wearable circuit and UV index sensor all sown into a hat. The UV/visible light sensor detects if you are outside by seeing if the UV Index is greater than the set threshold. When someone is under direct sunlight, the sensor tells the mainboard that the threshold was crossed, to which the mainboard tells the buzzer to beep.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 |Trisha R | Dougherty Valley High School | Mechanical Engineering/Product Design | Incoming Sophomore
 
-![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
+# About Me
+Hi, my name is Trisha Rajganesh, an aspiring Mechanical/Design Engineer who has been working on this project over the past three weeks. Although there were a lot of challenges along the way, I really enjoyed this project. Here is my portfolio!
   
 # Final Milestone
 My final milestone was sewing the components(the mainboard, piezo buzzer, UV Sensor, and 9V battery) onto the hat. I had to hold them in place so that when the battery was plugged into it's holder, it would not weigh down the rest of the devices. I also had to change the reapply interval in the code to 60 seconds, so the battery would not be exposed to direct sunlight for too long. In the end, I realized that a modification I would like to make in the future would be to build a battery holder with CAD, which would cover the battery and decrease the risk of it overheating. 
