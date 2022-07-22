@@ -8,7 +8,7 @@ This project reminds you to reapply sunscreen with a wearable circuit and UV ind
 
 # About Me
 Hi, my name is Trisha Rajganesh, an aspiring Mechanical/Design Engineer who has been working on this project over the past three weeks. Although there were a lot of challenges along the way, I really enjoyed this project. Here is my portfolio!
-![header](https://user-images.githubusercontent.com/108947902/180490727-096718fb-a1f0-487e-8421-9173307e2145.jpeg =230.75x361.75)
+![header](https://user-images.githubusercontent.com/108947902/180490727-096718fb-a1f0-487e-8421-9173307e2145.jpeg =231x362)
 
   
 # Final Milestone
