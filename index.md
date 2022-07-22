@@ -169,3 +169,7 @@ for (int i=0; i<17; i++) {
 }
 >
 ```
+
+# Tips For Building This Project
+
+If you decide to work on this project, there are a couple things you should know so that your experience goes a bit smoother than mine. Firstly, make sure to solder all the jumper wires through the pins instead of on top of them for a more secure connection. Make sure to unplug your battery when the project is not in use or being tested; the on/off switch on the mainboard isn't enough. If you have technical difficulties with the Arduino IDE sensing the correct port, download it again and try unplugging and replugging in the USB.
