@@ -11,6 +11,9 @@ Hi, my name is Trisha Rajganesh, an aspiring Mechanical/Design Engineer who has 
 
 <img src="https://user-images.githubusercontent.com/108947902/180490727-096718fb-a1f0-487e-8421-9173307e2145.jpeg" width="231" height="362" />
 
+# Project Images
+<img src="https://github.com/TrishaR32/TrishaRs_BSE_Portfolio/files/9169820/pdf.hat.img.pdf" />
+<img src="https://github.com/TrishaR32/TrishaRs_BSE_Portfolio/files/9169829/Sunscreen.Reminder.Hat.pdf" />
   
 # Final Milestone
 My final milestone was sewing the components(the mainboard, piezo buzzer, UV Sensor, and 9V battery) onto the hat. I had to hold them in place so that when the battery was plugged into it's holder, it would not weigh down the rest of the devices. I also had to change the reapply interval in the code to 60 seconds, so the battery would not be exposed to direct sunlight for too long. In the end, I realized that a modification I would like to make in the future would be to build a battery holder with CAD, which would cover the battery and decrease the risk of it overheating. 
